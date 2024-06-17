@@ -1,0 +1,15 @@
+{
+    "TOKEN": "",
+    "source_channel_ids": {
+        "1": FIRST_CHANNEL_ID,
+        "2": SECOND_CHANNEL_ID
+    },
+    "webhook_urls": {
+        "1": "FIRST_WEBHOOK",
+        "2": "SECOND_WEBHOOK"
+    },
+    "allowed_mentions": [
+        WHITELISTED_USER_ID,
+        WHITELISTED_USER_ID
+    ]
+}
